@@ -17,6 +17,7 @@ gem 'bootstrap-sass', '~> 3.2.0.2'
 
 gem 'devise', github: 'plataformatec/devise'
 gem 'paperclip', '~> 4.2.0'
+gem 'masonry-rails', '~> 0.2.4'
 # <--
 
 group :development, :test do
